@@ -1,3 +1,3 @@
 
-rootProject.name="mn-discriminator-not-null-bug-jackson"
+rootProject.name="mn-discriminator-not-null-with-jackson"
 

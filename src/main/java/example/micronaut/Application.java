@@ -6,7 +6,7 @@ import io.swagger.v3.oas.annotations.info.*;
 
 @OpenAPIDefinition(
     info = @Info(
-            title = "mn-discriminator-not-null-bug-jackson",
+            title = "mn-discriminator-not-null-with-jackson",
             version = "0.0"
     )
 )
